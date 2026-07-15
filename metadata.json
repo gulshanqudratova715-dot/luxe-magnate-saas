@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Magnate",
+  "description": "Curated luxury inventory, financial intelligence, and AI-powered enterprise automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
